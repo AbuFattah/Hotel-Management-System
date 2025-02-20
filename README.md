@@ -5,7 +5,7 @@ Here's the modified README with your admin feature and customer booking system i
 # Hotel Management System
 
 ## About
-Hotel Management System is a web application developed using **Spring Boot**, **MySQL**, **JPA**, and **Thymeleaf**, deployed on **Tomcat Server**. The system is designed to handle various hotel management functions efficiently and is user-friendly for both administrators and customers.
+Hotel Management System is a web application developed using **Spring Boot**, **MySQL**, **JPA**, and **Thymeleaf**, deployed on **Tomcat Server**. The system is designed to handle various hotel management functions efficiently and is user-friendly for both administrators and customers. Developed an admin feature for managing reservations and hotel services, allowing customers to book rooms, check availability, and cancel reservations online.
 
 ## Features
 - Built using **Spring Boot** for rapid development.
